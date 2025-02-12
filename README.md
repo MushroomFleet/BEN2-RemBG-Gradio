@@ -1,4 +1,5 @@
 # BEN2 RemBG Gradio 🚀🎨
+![demo-ui](https://raw.githubusercontent.com/MushroomFleet/BEN2-RemBG-Gradio/refs/heads/main/examples/demo-ui.png)
 
 BEN2 RemBG Gradio is an innovative tool that leverages a Gradio interface for seamless background removal with powerful CUDA acceleration. This project is designed for users who require efficiency and cutting-edge performance in image processing.
 
