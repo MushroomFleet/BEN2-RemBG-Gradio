@@ -12,7 +12,7 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```
-   git clone GITHUB_REPO_URL_PLACEHOLDER
+   git clone https://github.com/MushroomFleet/BEN2-RemBG-Gradio
    ```
 2. Navigate to the project directory.
 3. Run the installation script:
